@@ -1,7 +1,9 @@
 ![Image of clouds](https://raw.githubusercontent.com/Enderman842/Enderman842/main/clouds2.png)
 
-## Hi there 👋
+## oi mate
 
+### projects
+- [Bundled Items](https://github.com/Enderman842/bundleditems1204) - A Minecraft mod that adds item bundles
 
 
 <!--
